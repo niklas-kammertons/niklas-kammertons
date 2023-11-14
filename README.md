@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my GitHub!
+
+![Alt text](https://marketoonist.com/wp-content/uploads/2023/03/230327.n.aiwritten.jpg)
+###### (source: https://marketoonist.com/2023/03/ai-written-ai-read.html)
 
 <!--
 **niklas-kammertons/niklas-kammertons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
